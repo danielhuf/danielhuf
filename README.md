@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/danielhuf">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=danielhuf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=True"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhuf&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=danielhuf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=True"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhuf&layout=compact&langs_count=16&theme=tokyonight"/>
  </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Daniel-py" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> &nbsp;
