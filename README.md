@@ -17,8 +17,10 @@
   <img align="center" alt="Daniel-post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="center" alt="Daniel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/> 
 </div>
+<img align="right" height="120" width="180" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   
  ##
+<br><br><br>
 
 ![Snake animation](https://github.com/danielhuf/danielhuf/blob/output/github-contribution-grid-snake.svg)
 
