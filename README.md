@@ -1,5 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://github.com/danielhuf">Daniel</a></h2>
-<br>
+<h2>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/danielhuf">Daniel</a></h2>
 <div align="center">
   <a href="https://github.com/danielhuf">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielhuf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=True"/>
