@@ -1,6 +1,5 @@
 <h2>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/danielhuf">Daniel</a> !</h2>
 
-<br>
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; display: inline-block;">
     <!-- GitHub profile card -->
@@ -10,7 +9,6 @@
     </a>
   </div>
 </div>
-<br>
 
 ---
 
