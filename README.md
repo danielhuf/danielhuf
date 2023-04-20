@@ -26,8 +26,9 @@
   <img align="center" alt="Daniel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 </div>
   
- ##
-<br><br>
+---
+
+### 🚀 Some Tools I Use
 
 ![Snake animation](https://github.com/danielhuf/danielhuf/blob/output/github-contribution-grid-snake.svg)
   
