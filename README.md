@@ -30,7 +30,7 @@
 
 ![Snake animation](https://github.com/danielhuf/danielhuf/blob/output/github-contribution-grid-snake.svg)
   
-<br><br><br>
+---
 
 ### :trollface: A random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
