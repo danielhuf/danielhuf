@@ -6,12 +6,6 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhuf&layout=compact&langs_count=16&theme=tokyonight"/>
  </div>
 <br>
-## Hi there, I'm Tomás ✌️
-🚀 I'm a Double Degree Engineering student @ CentraleSupélec & PUC Chile 
-
-🌱 I'm currently learning Fullstack development using NextJS, GraphQL and Amplify.
-
-⚡ Fun fact: I'm really into mindfulness 🧘‍
 
 ---
 
