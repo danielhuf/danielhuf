@@ -4,6 +4,7 @@
   <a href="https://github.com/danielhuf">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielhuf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=True"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhuf&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="right" height="120" width="180" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
  </div>
 <br>
 
@@ -19,7 +20,6 @@
   <img align="center" alt="Daniel-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
   <img align="center" alt="Daniel-post" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img align="center" alt="Daniel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
-  <img align="right" height="120" width="180" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
   
  ##
