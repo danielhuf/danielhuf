@@ -6,6 +6,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhuf&layout=compact&langs_count=16&theme=tokyonight"/>
  </div>
 <br>
+---
 <h2>🚀 Some Tools I Use</h2>
 <div style="display: inline_block">
   <img align="center" alt="Daniel-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
