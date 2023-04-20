@@ -9,7 +9,6 @@
 
 ---
 
-### 📚 Projects I've worked on
 ### 🚀 Some Tools I Use
 <div style="display: inline_block">
   <img align="center" alt="Daniel-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
