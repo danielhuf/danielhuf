@@ -8,7 +8,7 @@
       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhuf&layout=compact&langs_count=16&theme=tokyonight"/>
     </a>
   </div>
-  <div style="margin-left: 2px;">
+  <div style="margin-left: 0px;">
     <!-- GIF code here -->
     <img height="140em" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   </div>
