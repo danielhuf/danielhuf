@@ -1,18 +1,19 @@
 <h2>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/danielhuf">Daniel</a> !</h2>
 <br>
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1; display: inline-block;">
     <!-- GitHub profile card code here -->
     <a href="https://github.com/danielhuf">
       <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielhuf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=True"/>
       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhuf&layout=compact&langs_count=16&theme=tokyonight"/>
     </a>
   </div>
-  <div style="margin-left: 0px;">
+  <div style="display: inline-block; margin-left: 16px;">
     <!-- GIF code here -->
     <img height="140em" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
   </div>
 </div>
+
 
 <br>
 
