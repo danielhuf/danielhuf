@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Some Tools I Use
+### 💻 Some Tools I Use
 <div style="display: inline_block">
   <img align="center" alt="Daniel-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Daniel-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>  
@@ -26,13 +26,13 @@
   
 ---
 
-### 🚀 Some Tools I Use
+### 🚀 And here's my GitHub activity
 
 ![Snake animation](https://github.com/danielhuf/danielhuf/blob/output/github-contribution-grid-snake.svg)
   
 <br><br><br>
 
-### Here is a random meme for you, to make your day better
+### :trollface: Here is a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
   
 <div align="center">
