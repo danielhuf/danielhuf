@@ -26,13 +26,13 @@
   
 ---
 
-### 🚀 And here's my GitHub activity
+### 🚀 Here's my GitHub activity
 
 ![Snake animation](https://github.com/danielhuf/danielhuf/blob/output/github-contribution-grid-snake.svg)
   
 ---
 
-### :trollface: A random meme for you, to make your day better
+### :trollface: And a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
   
 <div align="center">
