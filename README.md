@@ -1,6 +1,6 @@
 <h2>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/danielhuf">Daniel</a> !</h2>
 <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/danielhuf">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielhuf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=True"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielhuf&layout=compact&langs_count=16&theme=tokyonight"/>
@@ -10,7 +10,7 @@
 ---
 
 ### 📚 Projects I've worked on
-<h2>🚀 Some Tools I Use</h2>
+### 🚀 Some Tools I Use
 <div style="display: inline_block">
   <img align="center" alt="Daniel-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img align="center" alt="Daniel-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>  
