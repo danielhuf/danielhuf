@@ -13,7 +13,7 @@
 ---
 
 ### 💻 Some Tools I Use
-![Notion1](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Notion2](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Notion3](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+![Notion1](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Notion2](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Notion3](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
   
 ---
 
