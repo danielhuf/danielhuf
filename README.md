@@ -32,7 +32,7 @@
   
 <br><br><br>
 
-### :trollface: Here is a random meme for you, to make your day better
+### :trollface: A random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
   
 <div align="center">
