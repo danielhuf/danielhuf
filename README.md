@@ -26,7 +26,11 @@
 
 ### :trollface: And a random meme for you, to make your day better
 (*PS: Refresh the page to see a new meme* :wink: )
-  
+
 <div align="center">
-  <a href="https://github.com/techytushar/random-memer"><img src="https://random-memer-production-e671.up.railway.app/" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+  <img src='http://http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </div>
+  
+<!--<div align="center">
+  <a href="https://github.com/techytushar/random-memer"><img src="https://random-memer-production-e671.up.railway.app/" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+</div>-->
