@@ -28,5 +28,5 @@
 (*PS: Refresh the page to see a new meme* :wink: )
   
 <div align="center">
-  <a href="https://github.com/techytushar/random-memer"><img src="https://random-memer-production-e671.up.railway.app/" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
+  <a href="https://github.com/techytushar/random-memer"><img src="https://random-memer.danielhuf.repl.co" title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
 </div>
