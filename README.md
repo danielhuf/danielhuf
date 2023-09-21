@@ -1,4 +1,6 @@
-<h2>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/danielhuf">Daniel</a> !</h2>
+<!-- <h2>Hey <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm <a href="https://github.com/danielhuf">Daniel</a> !</h2> -->
+<h2> Hey! I'm Daniel </h2>
+
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; display: inline-block;">
